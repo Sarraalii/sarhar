@@ -17,3 +17,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     rms
+URL: https://github.com/Sarraalii/sarhar
+BugReports: https://github.com/Sarraalii/sarhar/issues
